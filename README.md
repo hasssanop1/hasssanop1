@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+🔭 I’m currently working on building modern, responsive websites and real-world web apps that focus on performance, usability, and design. I'm also polishing my personal portfolio to showcase my skills and projects.
+
+🌱 I’m currently learning advanced frontend concepts like component-based architecture, JavaScript best practices, and backend tools like Node.js and MongoDB to become a full-stack developer.
+
+👯 I’m looking to collaborate on open-source web development projects, creative frontend challenges, and any exciting idea that helps people and grows my coding experience.
+
+ 
 <!--
 **hasssanop1/hasssanop1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
