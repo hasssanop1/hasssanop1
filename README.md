@@ -1,25 +1,17 @@
-## Hi there 👋
+💫 About Me:
+I am currently learning javascript backend i have aslo made some frontend projects games etc and i am also interested in python
 
-My name is Hassan,I am a interested in Website Deveelopement and also interested in Python & Data Science
+🌐 Socials:
+Discord Instagram [LinkedIn](https://linkedin.com/in/HASSAN USMAN) Pinterest [Reddit](https://reddit.com/user/ Ok-Personality-3732) [YouTube](https://youtube.com/@HBU mine) [Codepen](https://codepen.io/Hassan Usman) email
 
-🔭 I’m currently working on building modern, responsive websites and real-world web apps that focus on performance, usability, and design. I'm also polishing my personal portfolio to showcase my skills and projects.
+💻 Tech Stack:
+PHP PowerShell Python TypeScript Angular.js Angular Bootstrap EJS Express.js Next JS NodeJS Nodemon React Native React React Router React Query React Hook Form SASS TailwindCSS Three js Vite Vue.js WordPress MongoDB Supabase Adobe Photoshop Canva Figma Git GitHub Portfolio Postman Epic Games Riot Games Steam Ubisoft Next JS Nodemon HTML5 TailwindCSS JavaScript NPM Express.js Next JS
 
-🌱 I’m currently learning advanced frontend concepts like component-based architecture, JavaScript best practices, and backend tools like Node.js and MongoDB to become a full-stack developer.
+📊 GitHub Stats:
 
-👯 I’m looking to collaborate on open-source web development projects, creative frontend challenges, and any exciting idea that helps people and grows my coding experience.
 
- 
-<!--
-**hasssanop1/hasssanop1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🔝 Top Contributed Repo
